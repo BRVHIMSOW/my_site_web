@@ -1,0 +1,264 @@
+.dail {
+    background-image: url(IMAG.jpeg);
+    background-repeat: no-repeat;
+    height: 650px;
+    background-size: cover;
+    padding: 15px;
+    color: white;
+
+}
+
+.principal {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.first {
+    display: flex;
+    margin-top: 10px;
+}
+
+.un {
+    margin: 10px;
+}
+
+.id {
+    background-color: rgb(238, 12, 12);
+    padding: 10px;
+    color: white;
+    height: 40px;
+    width: 150px;
+    border: solid 1px red;
+}
+
+span {
+    color: brown;
+}
+
+.sow {
+    display: flex;
+}
+
+#ba {
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+.align {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.secod {
+    background-color: black;
+    color: white;
+    border: solid 10px black;
+    padding-bottom: 10px;
+
+
+}
+
+.bad {
+    display: flex;
+    justify-content: center;
+}
+
+.thug {
+    background-color: dimgrey;
+    margin: 10px;
+    padding: 15px;
+}
+
+.top {
+    display: flex;
+
+
+}
+
+.so {
+    margin-left: 25px;
+    margin-top: 15px;
+}
+
+.me {
+    display: flex;
+}
+
+.you {
+    display: flex;
+
+}
+
+.class {
+    margin-left: 10px;
+    margin-bottom: 10px
+}
+
+#i {
+    margin-right: 10px;
+}
+
+.bg {
+    margin: 10px;
+}
+
+.big {
+    margin: 5px;
+    padding: 5px;
+}
+
+#yu {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 0px;
+    border: 1px solid black;
+}
+
+.ib {
+    font-size: 65px
+}
+
+.b {
+    margin-top: 19px;
+}
+
+#good {
+    width: 367px;
+}
+
+#than {
+    width: 376px;
+    height: 60px;
+    margin: 5px;
+}
+
+.html {
+    width: 350px;
+
+    height: 5px;
+    border: solid 1px rgb(214, 209, 209);
+}
+
+.html-cnt {
+    height: 5px;
+    background-color: crimson;
+    width: 90%;
+}
+
+.css {
+    width: 350px;
+
+    height: 5px;
+    border: solid 1px  rgb(214, 209, 209);
+}
+
+.css-cnt {
+    height: 5px;
+    background-color: crimson;
+    width: 60%;
+}
+
+.mr {
+    width: 350px;
+
+    height: 5px;
+    border: solid 1px  rgb(214, 209, 209);
+}
+
+.mr- {
+    height: 5px;
+    background-color: crimson;
+    width: 30%;
+}
+
+.mrs {
+    width: 350px;
+
+    height: 5px;
+    border: solid 1px  rgb(214, 209, 209);
+}
+
+.mrs- {
+    height: 5px;
+    background-color: crimson;
+    width: 40%;
+}
+
+.mdm {
+    width: 350px;
+
+    height: 5px;
+    border: solid 1px  rgb(214, 209, 209);
+}
+
+.mdm- {
+    height: 5px;
+    background-color: crimson;
+    width: 30%;
+}
+
+.cd {
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+
+}
+
+.about:hover {
+    color: crimson;
+
+}
+
+.formations:hover {
+    color: crimson;
+}
+
+.skills:hover {
+    color: crimson;
+}
+
+.contact:hover {
+    color: crimson;
+}
+
+.home:hover {
+    color: crimson;
+}
+
+#x {
+    color: chocolate;
+}
+
+.my:hover {
+    color: crimson;
+}
+
+#project:hover {
+    background-color: crimson;
+}
+
+#web:hover {
+    background-color: crimson;
+}
+
+#site:hover {
+    background-color: crimson;
+}
+
+#che:hover {
+    background-color: crimson;
+}
+
+#chou:hover {
+    background-color: crimson;
+}
+
+#cou:hover {
+    background-color: crimson;
+}
