@@ -262,3 +262,20 @@ a {
 #cou:hover {
     background-color: crimson;
 }
+#boutton:hover{
+    background-color: black;
+    color: white;
+
+}
+#read:hover{
+    background-color: black;
+    color: white; 
+}
+#down:hover{
+ background-color: black;
+    color: white;
+}
+#join:hover{
+     background-color: black;
+    color: white;
+}
